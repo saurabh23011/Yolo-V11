@@ -5,7 +5,7 @@ ultralytics>=8.0.0
 # Computer Vision and Image Processing
 opencv-python-headless
 Pillow>=10.0.0
-
+pyttsx3
 # Deep Learning Framework
 torch>=2.0.0
 
