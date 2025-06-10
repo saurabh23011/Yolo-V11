@@ -8,7 +8,7 @@ Pillow>=10.0.0
 pyttsx3
 # Deep Learning Framework
 torch>=2.0.0
-espeak
+
 torchvision>=0.15.0
 
 # Data Processing
