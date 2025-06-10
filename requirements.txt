@@ -6,7 +6,7 @@ ultralytics>=8.0.0
 opencv-python-headless
 Pillow>=10.0.0
 pyttsx3==2.90
-espeak 1.48.04
+
 gTTS==2.5.1
 # Deep Learning Framework
 torch>=2.0.0
